@@ -1,0 +1,7 @@
+title: ~BaeXploits 'n' PewPews~
+description: Just another avid, enthusiastic cybersec dude who just wanna tinker and explore new attacks and review on new tools. Another big fan of FPS games too (especially Rainbow Six Siege).
+show_downloads: true
+google_analytics:
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
