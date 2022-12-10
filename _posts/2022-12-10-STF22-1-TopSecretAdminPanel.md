@@ -4,6 +4,7 @@ title: "GovTech Stack the Flags CTF 2022 Writeup 1: Top Secret Admin Panel"
 date: 2022-12-10
 author: xxbaemaxx
 tags: govtech stf22 ctf
+excerpt: 'The challenge starts by providing us with a APK file, in which I immediately installed it onto my Genymotion Android VM Emulator (just use the free edition will do) with the adb tool. Upon loading the app, it presents itself with a login interface, prompting me to key in the username and password...'
 ---
 ## Walkthrough
 
